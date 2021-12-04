@@ -1,44 +1,65 @@
 SAE 1015 St:
-  - sigma_0: 228.0
-  - sigma_u: 415.0
-  - gamma:0.7352
+  sigma_0:
+    228.0
+  sigma_u:
+    415.0
+  gamma:
+    0.7352
   
   
 SAE 4130 St, Norm:
-  - sigma_0: 647.0
-  - sigma_u: 799.0
-  - gamma: 0.6903
+  sigma_0:
+    647.0
+  sigma_u:
+    799.0
+  gamma:
+    0.6903
   
   
 SAE 4130 St, Hard:
-  - sigma_0: 1200.0
-  - sigma_u: 1241.0
-  - gamma: 0.5457
+  sigma_0:
+    1200.0
+  sigma_u:
+    1241.0
+  gamma:
+    0.5457
   
   
 6061 T6 Al:
-  - sigma_0: 276.0
-  - sigma_u: 310.0
-  - gamma: 0.6330
+  sigma_0:
+    276.0
+  sigma_u:
+    310.0
+  gamma:
+    0.6330
   
   
 2014-T6 Al:
-  - sigma_0: 438.0
-  - sigma_u: 494.0
-  - gamma: 0.4803
+  sigma_0:
+    438.0
+  sigma_u:
+    494.0
+  gamma:
+    0.4803
   
   
 7075-T6 Al:
-  - sigma_0: 489.0
-  - sigma_u: 567.0
-  - gamma: 0.4150
+  sigma_0:
+    489.0
+  sigma_u:
+    567.0
+  gamma:
+    0.4150
   
   
 Ti-6Al-4V:
-  - sigma_0: 1006.0
-  - sigma_u: 1034.0
-  - gamma:0.5431
+  sigma_0:
+    1006.0
+  sigma_u:
+    1034.0
+  gamma:
+    0.5431
   
-  
+
 #Determining the Walker exponent and developing a modified Smith-Watson-Topper parameter model
 #http://www.relialab.org/Upload/files/Lv%20Zhiqiang-Journal%20of%20Mechanical%20Science%20and%20Technology.pdf
