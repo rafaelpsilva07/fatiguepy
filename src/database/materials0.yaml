@@ -1,0 +1,9 @@
+SAE 1015 St:
+  - sigma_0: 228.0
+  - sigma_u: 415.0
+  - gamma:0.7352
+ 
+ 
+ 
+#Determining the Walker exponent and developing a modified Smith-Watson-Topper parameter model
+#http://www.relialab.org/Upload/files/Lv%20Zhiqiang-Journal%20of%20Mechanical%20Science%20and%20Technology.pdf
